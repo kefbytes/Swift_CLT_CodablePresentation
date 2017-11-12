@@ -1,0 +1,19 @@
+"Decodable_Presentation"
+
+1.) Short PowerPoint
+	- parsing json pre-Swift 4
+	- Swift 4 Codable & JSON Serialization
+	- built in decodable types
+	- decoding custom types
+	- containers
+2.) Version 1 playground 
+	- decoding simple types
+	- encoding simple types
+3.) Version 2 playground
+	- decoding arrays
+	- decoding dictionaries
+	- decoding array of dictionaries
+	- encoding arrays
+	- encoding dictionaries
+	- encoding array of dictionaries
+	
